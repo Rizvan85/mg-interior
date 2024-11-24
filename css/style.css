@@ -36,6 +36,8 @@ body {
 }
 body {
   height: 3000px;
+scroll-behavior: smooth;
+	
 }
 header {
   /*background-color:deepskyblue;*/
